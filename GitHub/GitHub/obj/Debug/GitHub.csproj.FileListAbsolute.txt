@@ -1,1 +1,6 @@
 C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\bin\Debug\GitHub.exe.config
+C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\bin\Debug\GitHub.exe
+C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\bin\Debug\GitHub.pdb
+C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\obj\Debug\GitHub.csprojResolveAssemblyReference.cache
+C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\obj\Debug\GitHub.exe
+C:\Users\Vishal Pandey\Documents\GitHub\Practice\GitHub\GitHub\obj\Debug\GitHub.pdb

@@ -11,7 +11,12 @@ namespace GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Learning GitHub In Visual Studio 2015");
-            Console.WriteLine("Changes Made");
+            List<int> listNumber = new List<int>();
+            listNumber.Add(1);
+            listNumber.Add(2);
+            Console.WriteLine(listNumber[1]);
+
+            Console.ReadLine();
         }
     }
 }
